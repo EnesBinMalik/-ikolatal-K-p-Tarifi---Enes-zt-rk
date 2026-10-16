@@ -1,0 +1,6 @@
+{
+  "name": "Çikolatalı Küp Tarifi - Enes Öztürk",
+  "description": "Enes Öztürk tarafından hazırlanan nefis Çikolatalı Küp tatlısı tarifi. İnteraktif malzeme listesi, adım adım hazırlanış, porsiyon hesaplama ve semantik HTML etiket rehberi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
